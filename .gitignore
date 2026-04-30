@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build
+bin/
+build/
+
+# JAR (dist hariç)
+*.jar
+!dist/*.jar
+
+# OS
+.DS_Store
+Thumbs.db
